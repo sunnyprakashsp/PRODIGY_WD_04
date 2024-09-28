@@ -51,7 +51,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/sunnyprakashsp/PRODIGY_WD_)$
 Open the index.html file in any modern web browser, or use a local development server to view the website.
 
 Customization
